@@ -1,0 +1,3 @@
+/Users/pawelkulig/Desktop/AGH/JPO/Wzorce2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/pawelkulig/Desktop/AGH/JPO/Wzorce2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pawelkulig/Desktop/AGH/JPO/Wzorce2/cmake-build-debug/CMakeFiles/Wzorce2.dir
